@@ -1,6 +1,6 @@
 # Artistic Style Robotic Painting
 
-by: [Ardavan Bidgoli](ardavan.io), [Manuel Rodriguez Ladrón de  Guevara](manuelladron.com), Cinnie Hsiung, @jeanoh, Eunsu Kang
+by: [Ardavan Bidgoli](https://ardavan.io), [Manuel Rodriguez Ladrón de  Guevara](https://manuelladron.com), Cinnie Hsiung, @jeanoh, Eunsu Kang
 A research project on applying artistic style for robotic painting.
 
 <p align="center">
